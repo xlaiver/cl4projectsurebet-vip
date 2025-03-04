@@ -7,18 +7,18 @@ const products: Product[] = [
   {
     id: 1,
     name: 'Vivendo de Surebet VIP - Semanal',
-    price: 69.90,
+    price: 49.90,
     image: 'https://media.istockphoto.com/id/178786888/pt/foto/nova-unidade-monet%C3%A1ria-brasileira.jpg?s=612x612&w=0&k=20&c=qmkWAlPvs76jXYzCjbH-syVuvdex8W2YyfTCxw7WeUg=',
     description: 'Acesso VIP por 7 dias a todas as nossas surebets e estratégias exclusivas.',
-    pixCode: '00020126360014br.gov.bcb.pix0114+5531933061733520400005303986540569.905802BR5918JOHNNY REIS SANTOS6006Brasil62290525202503032205HIODLPSWPXNRH63040125'
+    pixCode: '00020126360014br.gov.bcb.pix0114+5531933061733520400005303986540549.905802BR5918JOHNNY REIS SANTOS6006Brasil62290525202503032205HIODLPSWPXNRH63040125'
   },
   {
     id: 2,
     name: 'Vivendo de Surebet VIP - Mensal',
-    price: 159.90,
+    price: 129.90,
     image: 'https://media.istockphoto.com/id/178786888/pt/foto/nova-unidade-monet%C3%A1ria-brasileira.jpg?s=612x612&w=0&k=20&c=qmkWAlPvs76jXYzCjbH-syVuvdex8W2YyfTCxw7WeUg=',
     description: 'Acesso VIP por 30 dias com suporte prioritário e todas as surebets identificadas.',
-    pixCode: '00020126360014br.gov.bcb.pix0114+55319330617335204000053039865406159.905802BR5918JOHNNY REIS SANTOS6006Brasil62290525202503032205MBC8WFPN9SXM16304EC88'
+    pixCode: '00020126360014br.gov.bcb.pix0114+55319330617335204000053039865406129.905802BR5918JOHNNY REIS SANTOS6006Brasil62290525202503032205MBC8WFPN9SXM16304EC88'
   },
   {
     id: 3,
