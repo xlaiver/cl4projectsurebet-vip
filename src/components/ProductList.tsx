@@ -23,10 +23,10 @@ const products: Product[] = [
   {
     id: 3,
     name: 'Vivendo de Surebet VIP - Trimestral',
-    price: 399.90,
+    price: 299.90,
     image: 'https://media.istockphoto.com/id/178786888/pt/foto/nova-unidade-monet%C3%A1ria-brasileira.jpg?s=612x612&w=0&k=20&c=qmkWAlPvs76jXYzCjbH-syVuvdex8W2YyfTCxw7WeUg=',
     description: 'Acesso VIP por 90 dias com todas as vantagens e consultorias exclusivas.',
-    pixCode: '00020126360014br.gov.bcb.pix0114+55319330617335204000053039865406399.905802BR5918JOHNNY REIS SANTOS6006Brasil62290525202503032206AL9E3U49TSJ0C630464CE'
+    pixCode: '00020126360014br.gov.bcb.pix0114+55319330617335204000053039865406299.905802BR5918JOHNNY REIS SANTOS6006Brasil62290525202503032206AL9E3U49TSJ0C630464CE'
   }
 ];
 
